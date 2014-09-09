@@ -19,3 +19,4 @@
 /.debuild
 /debuild
 Makefile
+Makefile.old

@@ -1,5 +1,8 @@
 Revision history for Perl module Ubic::Watchdog::Notice
 
+0.31 2014-09-09
+    - fix make PREREQ_PM
+
 0.3 2014-06-12
     - Scack notice
 

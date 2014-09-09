@@ -34,6 +34,7 @@
          "requires" : {
             "File::Tail" : "0",
             "Getopt::Long" : "0",
+            "LWP::UserAgent" : "0",
             "MIME::Lite" : "0",
             "Test::Simple" : "0.44",
             "URI" : "0"
@@ -41,5 +42,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : 0.3
+   "version" : 0.31
 }

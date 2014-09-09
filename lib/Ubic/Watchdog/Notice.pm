@@ -10,7 +10,7 @@ use MIME::Lite;
 use URI;
 use LWP::UserAgent;
 
-our $VERSION = 0.3;
+our $VERSION = 0.31;
 
 my $host = hostname;
 
@@ -126,7 +126,7 @@ Ubic::Watchdog::Notice - Notice service for ubic.
 
 =head1 VERSION
 
-version 0.3
+version 0.31
 
 =head1 SYNOPSIS
 
